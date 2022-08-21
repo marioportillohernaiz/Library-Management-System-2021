@@ -1,4 +1,4 @@
-# MARIO PORTILLO HERNAIZ, Student ID: F118326
+# MARIO PORTILLO HERNAIZ
 # Date: November 2021
 
 import datetime
