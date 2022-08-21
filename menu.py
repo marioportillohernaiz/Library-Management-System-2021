@@ -1,4 +1,4 @@
-# MARIO PORTILLO HERNAIZ, Student ID: F118326
+# MARIO PORTILLO HERNAIZ
 # Module: Introduction To Programming
 # COURSEWORK: Library Management System
 # Date: November 2021
