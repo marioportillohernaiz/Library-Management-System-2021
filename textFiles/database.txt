@@ -1,0 +1,17 @@
+1~Fiction~War And Peace~Leo Tolstoy~01/01/2021~mari
+2~Selfhelp~Atomic Habits~James Clear~02/01/2021~0
+3~Selfhelp~Atomic Habits~James Clear~02/01/2021~0
+4~Action~Gone~Michael Grant~03/01/2021~test
+5~Nonfiction~In Cold Blood~Truman Capote~03/01/2021~0
+6~Fiction~War And Peace~Leo Tolstoy~04/01/2021~0
+7~Action~Gone~Michael Grant~04/01/2021~mari
+8~Nonfiction~Figuring~Maria Popova~04/01/2021~test
+9~Fiction~Dune~Frank Herbert~04/01/2021~0
+10~Romance~Corrupt~Penelope Douglas~05/01/2021~coaa
+11~Drama~Once Confronted~Lynne Stringer~05/01/2021~0
+12~Fiction~Dune~Frank Herbert~06/01/2021~0
+13~Fiction~Dune~Frank Herbert~07/01/2021~0
+14~Drama~Runaway~Wendelin Van Draanen~07/01/2021~coab
+15~Nonfiction~Figuring~Maria Popova~07/01/2021~0
+16~Selfhelp~Think And Grow Rich~Napoleon Hill~08/01/2021~0
+17~Nonfiction~Intro to Programming~Firat Batmaz~08/01/2021~0

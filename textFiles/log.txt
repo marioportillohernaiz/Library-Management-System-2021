@@ -1,0 +1,54 @@
+CHECKOUT~10~Corrupt~coaa~28/08/2021
+CHECKOUT~1~War And Peace~mari~20/08/2021
+CHECKOUT~7~Gone~mari~29/08/2021
+CHECKOUT~2~Atomic Habits~coab~25/11/2021
+RETURN~2~Atomic Habits~coab~29/11/2021
+CHECKOUT~14~Runaway~coab~03/12/2021
+CHECKOUT~11~Once Confronted~coaa~05/12/2021
+RETURN~11~Once Confronted~coaa~05/12/2021
+CHECKOUT~11~Once Confronted~coab~06/12/2021
+CHECKOUT~3~Atomic Habits~mari~06/12/2021
+CHECKOUT~4~Gone~test~07/12/2021
+RETURN~11~Once Confronted~coab~08/12/2021
+RETURN~3~Atomic Habits~mari~08/12/2021
+CHECKOUT~2~Atomic Habits~mari~08/12/2021
+RETURN~2~Atomic Habits~mari~08/12/2021
+CHECKOUT~8~Figuring~test~08/12/2021
+CHECKOUT~9~Dune~mari~09/12/2021
+RETURN~9~Dune~mari~09/12/2021
+CHECKOUT~15~Figuring~mari~09/12/2021
+CHECKOUT~11~Once Confronted~coaa~09/12/2021
+CHECKOUT~3~Atomic Habits~test~11/12/2021
+CHECKOUT~2~Atomic Habits~coab~13/12/2021
+CHECKOUT~5~In Cold Blood~coab~13/12/2021
+RETURN~2~Atomic Habits~coab~13/12/2021
+CHECKOUT~2~Atomic Habits~mari~13/12/2021
+CHECKOUT~9~Dune~reme~13/12/2021
+CHECKOUT~6~War And Peace~reme~13/12/2021
+RETURN~9~Dune~reme~13/12/2021
+CHECKOUT~16~Think And Grow Rich~coab~13/12/2021
+CHECKOUT~13~Dune~coac~13/12/2021
+RETURN~2~Atomic Habits~mari~13/12/2021
+RETURN~16~Think And Grow Rich~coab~13/12/2021
+RETURN~15~Figuring~mari~13/12/2021
+RETURN~13~Dune~coac~13/12/2021
+CHECKOUT~13~Dune~coab~13/12/2021
+RETURN~13~Dune~coab~13/12/2021
+RETURN~11~Once Confronted~coaa~13/12/2021
+CHECKOUT~11~Once Confronted~coab~13/12/2021
+RETURN~11~Once Confronted~coab~13/12/2021
+RETURN~6~War And Peace~reme~13/12/2021
+CHECKOUT~12~Dune~coaa~13/12/2021
+CHECKOUT~13~Dune~coaa~13/12/2021
+RETURN~5~In Cold Blood~coab~13/12/2021
+RETURN~12~Dune~coaa~13/12/2021
+RETURN~13~Dune~coaa~13/12/2021
+CHECKOUT~5~In Cold Blood~coaa~13/12/2021
+RETURN~5~In Cold Blood~coaa~13/12/2021
+CHECKOUT~6~War And Peace~reme~13/12/2021
+RETURN~6~War And Peace~reme~13/12/2021
+RETURN~3~Atomic Habits~test~13/12/2021
+CHECKOUT~6~War And Peace~test~14/12/2021
+RETURN~6~War And Peace~test~14/12/2021
+CHECKOUT~3~Atomic Habits~test~15/12/2021
+RETURN~3~Atomic Habits~test~15/12/2021
